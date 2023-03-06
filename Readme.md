@@ -44,7 +44,7 @@
       - [The Client Server Architecture from The TechCave](https://www.youtube.com/watch?v=L5BlpPU_muY)
       - [HTTP Crash Course & Exploration from  Traversy Media (English)](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 
-  - HTML/CSS/Javascript: 5 weeks
+  - HTML/CSS/Javascript: 6 weeks
     - Videos
       - [Elzero HTML couse 2021 (Arabic)](https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
       - [Elzero CSS course 2021 (Arabic)](https://www.youtube.com/watch?v=X1ulCwyhCVM&list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
