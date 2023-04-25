@@ -19,7 +19,7 @@
   - Extra ('reading' or ' tools')
 - In the roadmap we will use different resources like books, videos and online articles
 - You should take the levels one by one as they are listed, but you can take the topic at each level in any order
-
+- for roadmap in weeks [here](https://github.com/mohamedheda/Php-Laravel-Roadmap-2023/tree/master/weeks)
 - and don't forget the golden rule: practice makes perfect
 ---
 
