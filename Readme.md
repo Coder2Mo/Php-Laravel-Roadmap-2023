@@ -50,13 +50,6 @@
       - [Elzero CSS course 2021 (Arabic)](https://www.youtube.com/watch?v=X1ulCwyhCVM&list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
       - [Elzero Javascript course 2021 (Arabic)](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
 
-  - UML Diagram: 1 week
-    - Videos
-      - [Freecodecamp (English)](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
-      
-    - Books
-      - [UML Distilled 3rd Ed](https://github.com/gcoronelc/PECI-Java-MAR-2015/blob/master/Recursos/UML%20Distilled%203rd%20Ed.pdf)
-      - [Modeling with UML: Language, Concepts, Methods](https://link.springer.com/book/10.1007/978-3-319-33933-7?fbclid=IwAR1cxmwa1kHE4cxT4IBxoQVp-LPLhdzS81zNhvdAZrQqEDIaGBP5HtiT9pQ)
 
   - PHP: 3 weeks
     - Videos
@@ -92,6 +85,13 @@
       - [How To Create A OOP PHP Login System For Beginners | OOP PHP & PDO](https://www.youtube.com/watch?v=BaEm2Qv14oU&list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh&index=19)
       - [Create MySql Notes App	](https://youtu.be/DOsuFRnBqLU)
 
+  - UML Diagram: 1 week
+    - Videos
+      - [Freecodecamp (English)](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
+      
+    - Books
+      - [UML Distilled 3rd Ed](https://github.com/gcoronelc/PECI-Java-MAR-2015/blob/master/Recursos/UML%20Distilled%203rd%20Ed.pdf)
+      - [Modeling with UML: Language, Concepts, Methods](https://link.springer.com/book/10.1007/978-3-319-33933-7?fbclid=IwAR1cxmwa1kHE4cxT4IBxoQVp-LPLhdzS81zNhvdAZrQqEDIaGBP5HtiT9pQ)
   - Data Structures (beginner): 2 weeks
     - Videos
       - [Adel Naseem (Arabic)](https://www.youtube.com/watch?v=owCqVRbZlbg&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
