@@ -51,6 +51,9 @@
       - [Elzero Javascript course 2021 (Arabic)](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
 
 
+   - Introduction to Database: 2 weeks
+      - [Database Itrax Academy (session 46: session 53)](https://www.itraxacademy.com/home/lesson/full-stack-diploma/12)
+      
   - PHP: 3 weeks
     - Videos
 
@@ -71,8 +74,6 @@
     - [Todo app with PHP](https://youtu.be/NxeNqHdJFxs)
     - [PHP registration form & validation](https://youtu.be/V5sJ76T3mWg)
 
-   - Introduction to Database: 2 weeks
-      - [Database Itrax Academy (session 46: session 53)](https://www.itraxacademy.com/home/lesson/full-stack-diploma/12)
 
   - OOP (in PHP): 2 weeks
     - Videos
